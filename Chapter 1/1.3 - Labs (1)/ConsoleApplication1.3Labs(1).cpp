@@ -1,6 +1,5 @@
 // ConsoleApplication1.3Labs(1).cpp: определяет точку входа для консольного приложения.
 //
-
 #include "stdafx.h"
 #include <iostream>//we included iostream
 #include <iomanip>//we included iomanip
