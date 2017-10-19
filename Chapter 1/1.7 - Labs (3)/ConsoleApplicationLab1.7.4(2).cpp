@@ -1,6 +1,5 @@
 // ConsoleApplicationLab1.7.4(2).cpp: определяет точку входа для консольного приложения.
 //
-
 #include "stdafx.h"
 #include <iostream>
 #include <cmath>
