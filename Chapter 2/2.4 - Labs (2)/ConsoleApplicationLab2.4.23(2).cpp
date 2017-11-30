@@ -7,7 +7,7 @@ using namespace std;
 int main(void)
 {
 	unsigned short int val;
-	bool ispalindrome = false;
+	bool ispalindrome = true;
 	cout << "value = ";
 	cin >> val;
 
@@ -24,7 +24,7 @@ int main(void)
 			b = 1;
 			counter--;
 		}
-		else
+		else 
 		{
 			ispalindrome = false;
 			break;
