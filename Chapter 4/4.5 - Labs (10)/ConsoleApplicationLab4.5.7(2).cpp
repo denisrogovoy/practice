@@ -4,7 +4,6 @@
 #include "stdafx.h"
 #include <string>
 #include <iostream>
-
 inline std::string RemoveExtraSpaces(std::string str)
 {
 	int index = -1;
