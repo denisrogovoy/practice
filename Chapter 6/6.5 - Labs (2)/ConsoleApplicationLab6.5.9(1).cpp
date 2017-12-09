@@ -54,6 +54,7 @@ Wheel::Wheel(int size)
 	this->size = size;
 }
 
+
 void Wheel::Print()
 {
 	cout << "Wheel: " << this->size << "inches" << endl;
